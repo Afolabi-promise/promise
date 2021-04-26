@@ -6,7 +6,7 @@
  <head>
        </head>
      <meta charset="utf-8">
-     <title>MY WEBPAGE</title>
+    
  </head>
  <body>
  <h3 align= "center"><front color= "purple"><b><b></b></b>WELCOME TO MY WEBPAGE!!!</front></h3>
