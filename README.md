@@ -4,9 +4,6 @@
 
  <html>
  <head>
-   
-     <meta charset="utf-8">
-    </head>
  <body>
  <h3 align= "center"><front color= "purple"><b><b></b></b>WELCOME TO MY WEBPAGE!!!</front></h3>
  <a href="Nestedlist.html"align="center">MY BACK TO SCHOOL LIST</a><br><br>
