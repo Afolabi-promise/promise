@@ -2,7 +2,7 @@
 
 <html>
 <head>
-      
+      </head>
     <meta charset="utf-8">
     <title>MY WEBPAGE</title>
 </head>
@@ -17,5 +17,6 @@
  <a href="Advertisement.html">ADVERTISEMENT</a><br><br>
  <a href="Student Registration.html"><front color="white"> Click here to proceed</front></a>
 
- </body>
+ </body> 
+ </html>
 
