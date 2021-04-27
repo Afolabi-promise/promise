@@ -13,4 +13,4 @@
  <a href="Student Registration.html"><front color="white"> Click here to proceed</front></a>
 
  </body>
- </html>
+
