@@ -4,7 +4,7 @@
  <head>
  <body>
  <h3 align= "center"><front color= "purple"><b><b></b></b>WELCOME TO MY WEBPAGE!!!</front></h3>
- <a href="Timetable.html">MY TIME TABLE</a><br><br>
+ <a href="Timetable.html">MY TIMETABLE</a><br><br>
  <a href="Student Registration.html">STUDENTS REGISTRATION FORM</a><br><br>
  <a href="Textbox.html">REGISTRATION FORM</a><br><br>
  <a href="Nestedlist.html">SCHOOL NEEDS</a><br><br>
