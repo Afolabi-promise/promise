@@ -10,7 +10,7 @@
  <a href="Nestedlist.html">SCHOOL NEEDS</a><br><br>
  <a href="Table.html">MATRIC TABLE</a><br><br>
  <a href="Advertisement.html">ADVERTISEMENT</a><br><br>
- <a href="foot.html><front color="white"> Click here to proceed</front></a>
+ <a href="Student Registration.html"><front color="white"> Click here to proceed</front></a>
 
  </body>
  </html>
