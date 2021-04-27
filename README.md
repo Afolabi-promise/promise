@@ -1,8 +1,13 @@
+<!DOCTYPE html>
 
-
- <html>
- <head>
- <body>
+<html>
+<head>
+      </head>
+    <meta charset="utf-8">
+    <title>MY WEBPAGE</title>
+</head>
+<body>
+ 
  <h3 align= "center"><front color= "purple"><b><b></b></b>WELCOME TO MY WEBPAGE!!!</front></h3>
  <a href="Timetable.html">MY TIMETABLE</a><br><br>
  <a href="Student Registration.html">STUDENTS REGISTRATION FORM</a><br><br>
